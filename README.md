@@ -1,2 +1,2 @@
 # FEM 1
- FrontEnd Mentor first challenge
+ FrontEnd Mentor challenge 1
